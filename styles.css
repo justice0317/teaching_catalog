@@ -19,7 +19,7 @@ body {
 
 .menu-btn {
     position: absolute;
-    left: 20px;
+    left: 10px;
     font-size: 40px;
     color: white;
     background: none;
@@ -125,7 +125,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 2列 */
     gap: 20px;
-    width: 60%; /* 調整寬度 */
+    width: 80%; /* 調整寬度 */
     max-width: 900px;
     margin-top: 20px;
 }
